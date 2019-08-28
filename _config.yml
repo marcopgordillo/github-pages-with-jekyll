@@ -10,3 +10,4 @@ twitter_username: marcopgordillo
 github_username:  marcopgordillo
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+theme: minima
